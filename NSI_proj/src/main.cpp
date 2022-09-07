@@ -87,7 +87,6 @@ int main() {
             {
                 serial_port.write("Danger - fall\n", 14);
             }
-           // thread_sleep_for(1500);
         }
     }
 }
